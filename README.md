@@ -1,4 +1,4 @@
-# 2D_Random_Room_Generator
+# 2D Random Room Generator - Raylib & Go
 
 Creates simple, single room levels with random inner walls.
 
